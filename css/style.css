@@ -1,0 +1,53 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header {
+    background: url(../img/DxRqwcyX0AAnta8.png) no-repeat center/cover;
+    height: 450px;
+}
+
+img {
+    width: 100%;
+}
+
+main h2 {
+    text-align: center;
+    margin-top: 42px;
+    margin-bottom: 55px;
+    font-size: 30px;
+    color: #445161;
+}
+
+main h3 {
+    text-align: center;
+    font-size: 30px;
+    color: #445161;
+    margin-bottom: 32px;
+}
+section h2 {
+    text-align: center;
+    margin-top: 42px;
+    margin-bottom: 55px;
+    font-size: 30px;
+    color: #445161;
+}
+
+main p{
+    font-size: 16px;
+    color: #333333;
+    margin-top: 28px;
+}
+
+footer{
+    background: url(../img/Background\ copy.png) no-repeat center/cover;
+    padding: 20px 0;
+}
+
+footer h1{
+    font-size: 30px;
+    color: white;
+    text-align: center;
+}
